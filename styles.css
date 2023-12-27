@@ -514,6 +514,7 @@ body {
   align-items: center;
   margin: auto;
   margin-top: 130px;
+  margin-bottom: 130px;
 }
 
 .stats {
@@ -545,7 +546,7 @@ body {
   margin: auto;
   width: 1174px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: flex-end;
 }
 
